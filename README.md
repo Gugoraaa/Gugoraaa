@@ -11,8 +11,7 @@
 
 - 🏫: I’m studying software engineering at ITESM
 - 🔭: I’m currently working on many small projects.
-- 🧠: I’m currently learning React application development and better database management
-- 🤔: I love learning from people! 
+- 🧠: I’m currently learning React application development and better database management 
 - 🔋: I love backend development for web pages and database management 
 - 🗣️: English and Spanish speaker 
 - ⚡  Fun fact: I play Padel, I go to the gym and I love listening to music 🎾🎹
