@@ -1,7 +1,7 @@
 
 <h1 align="center"><b>Hello , I'm Gustavo Gonzalez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer;Software+engineer+Student;Active+Learner/Researcher"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer;Computer+Science;Active+Learner/Researcher"></a>
 </p>
 
 
@@ -9,7 +9,7 @@
 
 <h1>About Me! </h1>
 
-- 🏫: I’m studying software engineering at ITESM
+- 🏫: I’m studying computer science at ITESM
 - 🔭: I’m currently working on many small projects.
 - 🧠: I’m currently learning React application development and better database management 
 - 🔋: I love backend development for web pages and database management 
